@@ -4,5 +4,3 @@
 - 🤔 I’m looking for help with os  estudos
 - 😄 Pronouns: Ela/Dela
 
-<div>
-  <a href-"https://beacons.ai/amandafreitas">
