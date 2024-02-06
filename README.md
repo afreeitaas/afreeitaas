@@ -2,10 +2,9 @@
 
 <h2 align="left">Hello, World! I'm Amanda, be very welcome!<h2/> 
 
-<table>
-  <a href="https://github.com/afreeitaas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afreeitaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+<h2>About me:</h2>
+
+<p></p>
 
 <h2>I code with:</h2>
   
@@ -14,7 +13,7 @@
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
 </table>
 
-<h2>Connect with me:</h2>
+<h2>Connect with me: <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐</font></font></h2>
 
 <div> 
   <a href="https://www.instagram.com/afreeitaas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,3 +21,9 @@
   <a href = "mailto: amandamadepe0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/afreeitaas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<table>
+  <a href="https://github.com/afreeitaas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afreeitaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+  </table>
