@@ -6,14 +6,14 @@
 
 <p></p>
 
-<h2>I code with:</h2>
+<h2>I code with: </h2>
   
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
 </table>
 
-<h2>Connect with me: <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐</font></font></h2>
+<h2>🌐 Connect with me: </h2>
 
 <div> 
   <a href="https://www.instagram.com/afreeitaas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
