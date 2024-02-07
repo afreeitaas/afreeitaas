@@ -1,15 +1,14 @@
-<h2 align="left">👋🏻 Hello, World! I'm Amanda...be very welcome!<h2/>
+<h2 align="left">👋🏻 Hello, World! I'm Amanda...be very welcome!<br><h2/>
 <table>
   <a href="https://github.com/afreeitaas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afreeitaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
   </table>
 
-  ##
+##
 
 <h2>💻I code with</h2>
 <div style="display: inline_block">
-  
   <img align="center" alt="joao-html"  height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="joao-css"  height="30" width="40"  
